@@ -80,3 +80,5 @@ Data Imputation
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
 - https://towardsdatascience.com/catboost-regression-in-6-minutes-3487f3e5b329
 - https://www.webucator.com/article/python-color-constants-module/
+- https://www.animenewsnetwork.com/interest/2015-08-13/anime-insiders-share-how-much-producing-a-season-costs/.91536
+- https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184
