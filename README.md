@@ -23,11 +23,13 @@ Visualize the findings using bar charts and other graphical representations
 
 #### The project is organized in the following manner:
 
-Data Cleaning: This section includes the cleaning and preprocessing of the raw dataset, handling missing values, data types, and inconsistencies.
+**Data Cleaning**: This section includes the cleaning and preprocessing of the raw dataset, handling missing values, data types, and inconsistencies.
 
-Data Analysis: This section includes the data analysis techniques applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors.
+**Data Analysis**: This section includes the data analysis techniques applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors.
 
-Results and Visualization: This section includes the results of the data analysis and the visualizations created to present the findings in an easy-to-understand manner.
+**Results and Visualization**: This section includes the results of the data analysis and the visualizations created to present the findings in an easy-to-understand manner.
+
+**Machine Learning**: This section includes machine learning models we have used on our dataset, Multivariate Regression and Random Forest Classifier
 
 
 # Our Analysis
