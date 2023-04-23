@@ -1,4 +1,6 @@
 # SC1015-Mini-Project
+- This is a data analysis project that aims to investigate the data science behind anime scores and the variables that may affect them. The project involves analyzing a dataset of anime shows, which includes information such as title, genre, episode count, release year, source material, licensors, producers, and user scores.
+- The project is implemented in Python using the popular data analysis libraries Pandas and Matplotlib. The dataset is cleaned and preprocessed to handle missing values, data types, and inconsistencies. Various data analysis techniques are applied to gain insights into the relationship between anime scores and different variables, such as themes and genres, demographics, release year, etc.
 
 # Our Problem Statement
 We want to predict viewers' liking of a new anime based on various factors such as producing company, genres, age ratings and number of episodes, etc.
@@ -11,11 +13,6 @@ We want to predict viewers' liking of a new anime based on various factors such 
 ![dataset-cover](https://user-images.githubusercontent.com/131596968/233845346-e85664f9-8f66-49a6-a81c-2d967799bea1.jpeg)
 https://www.kaggle.com/datasets/harits/anime-database-2022
 
-# Our Project
-This is a data analysis project that aims to investigate the data science behind anime scores and the variables that may affect them. The project involves analyzing a dataset of anime shows, which includes information such as title, genre, episode count, release year, source material, licensors, producers, and user scores.
-
-The project is implemented in Python using the popular data analysis libraries Pandas and Matplotlib. The dataset is cleaned and preprocessed to handle missing values, data types, and inconsistencies. Various data analysis techniques are applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors.
-
 # Main objectives
 Understand the distribution of anime scores and identify any trends or patterns
 Explore the relationship between anime scores and different variables
@@ -25,9 +22,7 @@ Visualize the findings using bar charts and other graphical representations
 
 **Data Cleaning**: This section includes the cleaning and preprocessing of the raw dataset, handling missing values, data types, and inconsistencies.
 
-**Data Analysis**: This section includes the data analysis techniques applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors.
-
-**Results and Visualization**: This section includes the results of the data analysis and the visualizations created to present the findings in an easy-to-understand manner.
+**Data Analysis**: This section includes the data analysis techniques applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors. This includes the results of the data analysis and the visualizations created to present the findings in an easy-to-understand manner.
 
 **Machine Learning**: This section includes machine learning models we have used on our dataset, Multivariate Regression and Random Forest Classifier
 
@@ -48,6 +43,7 @@ and how they may affect the `Score` of anime in `Exploratory Data Analysis`.
 # Machine Learning
 1. Multivariate Linear Regression 
 2. Random Forest Classifier
+3. K-Means Clustering
 
 # What we learned
 Different Machine Learning (ML) techniques
@@ -67,10 +63,11 @@ Data Imputation
 2. EDA and Visualisation: Andrea, Hain Eu
 3. Multivariate Regression: Chi, Hain Eu
 4. Random Forest Classification: Andrea
-5. Presentation Slides Deck: Hain Eu, Chi, Andrea
-6. Presentation Script: Hain Eu, Chi, Andrea
-7. Presentation Voiceover: Hain Eu
-8. Github ReadMe: Andrea
+5. K-Means Clustering: Chi, Hain Eu
+6. Presentation Slides Deck: Hain Eu, Chi, Andrea
+7. Presentation Script: Hain Eu, Chi, Andrea
+8. Presentation Voiceover: Hain Eu
+9. Github ReadMe: Andrea
 
 
 # References
