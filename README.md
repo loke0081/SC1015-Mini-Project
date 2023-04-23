@@ -10,8 +10,8 @@ we want to predict a viewer's liking of a new anime based on various factors suc
 
 # Our Analysis
 We analse the
-## 1. `Type` of anime
-## 2. `Source` of anime
+`Type` of anime
+`Source` of anime
 ## 3. `Themes_Genres` of anime
 ## 4. `Studios` of anime
 ## 5. `Demographics` of anime
