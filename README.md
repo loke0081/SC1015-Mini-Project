@@ -8,7 +8,10 @@ we want to predict a viewer's liking of a new anime based on various factors suc
 - In addition, stakeholders in the anime industry may be motivated to have a data-driven approach to decision-making when it comes to the various factors which may affect viewership and hence enhance viewership ratings and maximise profit.
 
 # Dataset used
+
+
 https://www.kaggle.com/datasets/harits/anime-database-2022
+
 
 # Our Analysis
 We analyse the
