@@ -16,13 +16,12 @@ This is a data analysis project that aims to investigate the data science behind
 
 The project is implemented in Python using the popular data analysis libraries Pandas and Matplotlib. The dataset is cleaned and preprocessed to handle missing values, data types, and inconsistencies. Various data analysis techniques are applied to gain insights into the relationship between anime scores and different variables, such as genre, episode count, release year, and licensors.
 
-The main objectives of this project are to:
-
+# Main objectives
 Understand the distribution of anime scores and identify any trends or patterns
 Explore the relationship between anime scores and different variables
 Visualize the findings using bar charts and other graphical representations
 
-The project is organized in the following manner:
+#### The project is organized in the following manner:
 
 Data Cleaning: This section includes the cleaning and preprocessing of the raw dataset, handling missing values, data types, and inconsistencies.
 
