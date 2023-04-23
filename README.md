@@ -9,7 +9,7 @@ we want to predict a viewer's liking of a new anime based on various factors suc
 - In addition, stakeholders in the anime industry may be motivated to have a data-driven approach to decision-making when it comes to the various factors which may affect viewership and hence enhance viewership ratings and maximise profit.
 
 # Our Analysis
-We analse the
+We analyse the
 1. `Type` of anime
 2. `Source` of anime
 3. `Themes_Genres` of anime
@@ -18,4 +18,5 @@ We analse the
 6. `Producers` of anime
 7. `Licensors` of anime
 8. `Rating` of anime
+
 and how they may affect the `Score` of anime
