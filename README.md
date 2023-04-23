@@ -54,6 +54,7 @@ Encoders
 - Label Encoder
 - Ordinal Encoder
 - Nominal Encoder
+
 Data Imputation
 - most-frequent (for categorical)
 - mean (for numerical)
